@@ -1,0 +1,123 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+.logo{
+    float: left;
+    padding-top: 84px;
+    padding-bottom: 52px;
+}
+.menu{
+    float: right;
+    padding-top: 92px;
+    padding-bottom: 50px;
+}
+.menu ul{
+    
+    list-style: none;
+}
+.menu ul li{
+    display: inline-block;
+    padding:  15px;
+}
+.menu ul li a{
+    text-decoration: none;
+}
+.menu ul li a:hover{
+    color: black;
+}
+.banner{
+    float: left;
+
+}
+.comment{
+    float: right;
+    width: 400px;
+    background-color: black;
+    color: #ffffff;
+    margin-right: 34px;
+    padding: 30px;
+}
+.text{
+    color: yellow;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+.text1{
+    padding-top: 15px;
+    padding-left: 40px;
+}
+.text2{
+    padding-left: 25px;
+    opacity: 0.5;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+.text2 h3{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+.web{ 
+    display: flex;
+
+    
+}
+.web1{
+    padding-top: 30px;
+}
+.web2{
+    
+    margin-left:  90px;
+    margin-top:30px ;
+
+}
+.btn{
+    width: 196px;
+    height: 46px;
+    background-color:red;
+    color: #ffffff;
+    margin-top:50px ;
+    border: 1px solid red;
+}
+.slider1{
+    padding-top: 120px;
+}
+.box{
+display: flex;
+
+}
+.box3{
+display: flex;
+margin-left: 10px;
+
+}
+.box4{
+    display: flex;
+    margin-left: 10px;
+    
+}
+.box2 h1{
+    opacity: 0.2;
+}
+.box2 h1,h3,h4{
+    margin-left: 15px;
+    
+}
+.box2 h3,h4{
+margin-top: 20px;
+}
+
+    
+    
